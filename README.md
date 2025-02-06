@@ -9,9 +9,11 @@ Here’s a snapshot of the customer churn prediction interface:
 ![Alt text](IMG-20241013-WA0009.jpg)
 
 Introduction
+
 Customer churn, where customers discontinue their service, poses a significant financial challenge for telecom providers. Predicting which customers are likely to churn allows companies to implement targeted strategies to retain them, enhancing customer satisfaction and reducing revenue losses.
 
 Problem Definition
+
 The objective of this project is to build a model that predicts the likelihood of a customer churning based on historical data. Using the predictive insights, telecom companies can improve customer retention strategies and minimize attrition.
 
 Objectives
