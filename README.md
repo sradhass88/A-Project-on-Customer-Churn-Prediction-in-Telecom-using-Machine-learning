@@ -5,7 +5,7 @@ This project aims to predict customer churn in the telecom industry using machin
 Here’s a snapshot of the customer churn prediction interface:
 
 ![Alt text](IMG-20241013-WA0008.jpg)
-![Alt text](IMG-20241013-WA0008.jpg)
+![Alt text](IMG-20241013-WA0009.jpg)
 
 Introduction
 
